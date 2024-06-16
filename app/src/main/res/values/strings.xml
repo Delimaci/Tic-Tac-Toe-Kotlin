@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+
+
+    <string name="x">X</string>
+    <string name="xScore">X</string>
+    <string name="oScore">O</string>
+    <string name="o">O</string>
+    <string name="turn">%1$s\'s Turn</string>
+    <string name="timermessage">10</string>
+    <string name="winner">%1$s\ Won</string>
+    <string name="BO3winner">%1$s\ Won the Best of 3! Game scores have been reset</string>
+    <string name="draw">It\'s a Draw</string>
+    <string name="resetButton">Reset</string>
+</resources>
